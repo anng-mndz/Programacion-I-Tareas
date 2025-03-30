@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743297326 source:c:\users\mende\onedrive\documents\laboratorio\progra1\programacion-i-tareas\laboratorio sobre bibliotecas\partidospoliticos\src\elecciones.cpp
+	"elecciones.h"
+
+1743297326 c:\users\mende\onedrive\documents\laboratorio\progra1\programacion-i-tareas\laboratorio sobre bibliotecas\partidospoliticos\include\elecciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
